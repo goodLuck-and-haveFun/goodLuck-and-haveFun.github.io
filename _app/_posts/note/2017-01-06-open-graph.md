@@ -3,6 +3,7 @@ layout: post
 title: Open Graph
 category: note
 plugin: lightense
+published: true
 tags: curtana
 ---
 

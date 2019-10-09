@@ -7,10 +7,10 @@
 # {{ author.web }}: used in atom feed
 # {{ author.twitter }}: used by Twitter Cards
 default:
-  name:         Tunghsiao Liu
-  email:        t@sparanoid.com
-  web:          https://sparanoid.com/
-  twitter:      tunghsiao
+  name:         Sp4c3Cowb3y
+  email:        gl-and-hf@outlook.com
+  web:          https://goodluck-and-havefun.github.io/
+  twitter:      goodluck-and-havefun
 
 tester:
   name:         Tester

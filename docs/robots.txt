@@ -1,3 +1,3 @@
-Sitemap: https://sparanoid.com/docs/sitemap.xml
+Sitemap: https://goodluck-and-havefun.github.io/docs/docs/sitemap.xml
 
 User-agent: *

@@ -2,20 +2,17 @@
 layout: page
 title: About
 permalink: /about/
-desc: 示例頁面・サンプルページ・Example Page
+desc: Sp4c3Cowb3y ・ GoodLuck & HaveFun
 ---
 
-This is an example About page.
+You may find some information about me.
 
-Sparanoid is a design studio operated by Tunghsiao Liu. You can ping me on [Twitter](https://twitter.com/tunghsiao) or send correspondence to [t@sparanoid.com](mailto:t@sparanoid.com).
+I am a very [normal](https://en.wikipedia.org/wiki/Social_norm) person ... I wear cloth, do go out from time to time ... think sometimes ... and feel all the emotions a [normal](https://en.wikipedia.org/wiki/Social_norm) person would. You dont have to fear me ... I am here to help :)
+## Links
 
-## Colophon
+[IRC](http://iamawesome.com) -
+[GitHub](https://github.com/goodluck-and-havefun) -
+[Bitcoin](https://static.coindesk.com/wp-content/uploads/2019/08/shutterstock_786941158-860x430.jpg) -
+[Free Money](https://rrrgggbbb.com/)
 
-[AMSF](https://sparanoid.com/lab/amsf/) ([Source](https://github.com/sparanoid/sparanoid.com)) -
-[GitHub](https://github.com/) -
-[CloudFront](https://aws.amazon.com/cloudfront/) -
-[Textmate](https://macromates.com/)
-
-All posts are &copy; Sparanoid, Inc., all rights reserved.
-
-*[AMSF]: Almace Scaffolding
+All posts are fictional and dont exist in the real world. In case you want my electronic mailing address: gl-and-hf@outlook.de

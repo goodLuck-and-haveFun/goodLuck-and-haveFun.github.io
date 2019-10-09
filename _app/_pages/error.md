@@ -2,7 +2,7 @@
 layout: page
 title: Error‽
 permalink: /404.html
-desc: 錯誤・エラー・Oops
+desc: 哎呀 ・ ой ・ Oops
 category: home
 hidden: true
 css: |
@@ -11,5 +11,5 @@ css: |
   }
 ---
 
-<p>The requested URL was not found on this server.</p>
-<p>I’m sorry, you can close this tab now.</p>
+<p>There is nothing to find here.</p>
+<p>I think you really should go and look somewhere else.</p>
